@@ -23,25 +23,25 @@ int main(void) {
 
         switch (input) {
             case 1:
-                if (y < FIELD_SIZE) {
+                if (posy < 3) {
                     swapValues(&field[posx][posy], &field[posx][posy + 1]);
                     posy += 1;
                 }
                 break;
             case 2:
-                if (x < FIELD_SIZE) {
+                if (posx < 3) {
                     swapValues(&field[posx][posy], &field[posx + 1][posy]);
                     posx += 1;
                 }
                 break;
             case 3:
-                if (x > 0) {
+                if (posx > 0) {
                     swapValues(&field[posx][posy], &field[posx - 1][posy]);
                     posx -= 1;
                 }
                 break;
             case 4:
-                if (y > 0) {
+                if (posy > 0) {
                     swapValues(&field[posx][posy], &field[posx][posy - 1]);
                     posy -= 1;
                 }
