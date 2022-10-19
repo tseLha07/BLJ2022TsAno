@@ -18,8 +18,10 @@ int main(void) {
     int input = 0;
 
     do {
+        system("cls");
         printField(FIELD_SIZE, field);
         scanf("%d", &input);
+        
 
         switch (input) {
             case 1:
@@ -49,5 +51,6 @@ int main(void) {
         }
 
     } while (input != 0);
+    
     return 0;
 }
