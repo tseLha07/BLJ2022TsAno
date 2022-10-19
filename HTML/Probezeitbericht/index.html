@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Probezeitbericht</title>
+    </head>
+    <body>
+        <br>
+        <h4><strong>Probezeitbericht</strong></h4>
+        <br>
+        <section>
+            <label>Lernende/r: <input type="text" maxlength="50"></label>
+            <div>Lehrberuf: <input type="text" list="Lehrstellen" name="Lehre">
+            <datalist id="Lehrstellen">
+                <option value="Applikationsentwicker/in">
+                <option value="Plattformentwickler/in">
+                <option value="Mediamatiker/in"></option>
+            </datalist>
+        </div>
+            <fieldset>
+                <legend>Berufsmaturität</legend>
+                    <input type="radio" name="list"><label>mit BMS</label>
+                    <input type="radio" name="list"><label>ohne BMS</label>
+            </fieldset>
+            <label>Lehrbeginn: <input type="date"></label>
+            <div><label>berufsbildner/in: <input type="text" maxlength="50"></label></div>
+            <br>
+            <div><strong>Gesamteindruck</strong></div>
+            <br>
+            <div><textarea name="Gesamteindruck" rows="5" cols="20"></textarea></div>
+            <br>
+            <div><strong>Beurteilung</strong></div>
+        </section>
+        <br><hr>
+        <section>
+            <div>Fachkompetenz</div>
+            <div><small>Fertigkeiten, Kenntnisse, Quantität, Qualität etc.</small></div>
+                <input type="radio" name="Fachkompetenz" value="sehr gut">sehr gut
+                <br>
+                <input type="radio" name="Fachkompetenz" value="gut">gut
+                <br>
+                <input type="radio" name="Fachkompetenz" value="genügend">genügend
+                <br>
+                <input type="radio" name="Fachkompetenz" value="ungenügend">ungenügend
+                <br><hr>
+            <div>Methodenkompetenz</div>
+            <div><small>Lernfähigkeit, Arbeitsmethodik, Arbeitssicherheit, Kreativität etc.</small></div>
+                <input type="radio" name="Methodenkompetenz" value="sehr gut">sehr gut
+                <br>
+                <input type="radio" name="Methodenkompetenz" value="gut">gut
+                <br>
+                <input type="radio" name="Methodenkompetenz" value="genügend">genügend
+                <br>
+                <input type="radio" name="Methodenkompetenz" value="ungenügend">ungenügend
+                <br><hr>
+            <div>Sozialkompetenz</div>
+            <div><small>Teamfähigkeit, Firmenbezug, Umweltgerechtes Verhalten etc.</small></div>
+                <input type="radio" name="Sozialkompetenz" value="sehr gut">sehr gut
+                <br>
+                <input type="radio" name="Sozialkompetenz" value="gut">gut
+                <br>
+                <input type="radio" name="Sozialkompetenz" value="genügend">genügend
+                <br>
+                <input type="radio" name="Sozialkompetenz" value="ungenügend">ungenügend
+                <br><hr>
+                <div>Selbstkompetenz</div>
+            <div><small>Selbstständigkeit, Leistungsbereitschaft, Flexibilität etc.</small></div>
+                <input type="radio" name="Sozialkompetenz" value="sehr gut">sehr gut
+                <br>
+                <input type="radio" name="Sozialkompetenz" value="gut">gut
+                <br>
+                <input type="radio" name="Sozialkompetenz" value="genügend">genügend
+                <br>
+                <input type="radio" name="Sozialkompetenz" value="ungenügend">ungenügend
+                <br><hr>
+        </section>
+        <section>
+            <br>
+            <div><strong>Fazit</strong></div>
+            <br>
+            <div>Probezeit: <input type="text" list="resultat">
+                <br>
+            <datalist id="resultat">
+                <option value="bestanden">
+                <option value="nicht bestanden"></option>
+            </datalist>
+            <br>
+            <div><strong>Bemerkungen</strong></div>
+            <br>
+            <div><textarea name="Bemerkungen" rows="5" cols="25"></textarea></div>
+            <button>Speichern</button>
+        </section>
+    </body>
+</html>
