@@ -14,14 +14,10 @@
             header {
                 display: flex;
                 justify-content: space-between;
-            } 
-           td:nth-child(1) {
-                width: 30%;
-           }
-           td:nth-child(2) {
-                width: 70%;
-                text-align: right;
-           }
+            }
+         table, th, td {
+            border: 1px solid black;
+         }
         </style> 
     </head>
 
@@ -33,7 +29,27 @@
                 <a href="#section3">Reflexion</a>
             </header>
 
+
+
             <h3><strong>Auflistung der Tätigkeiten und der Zeit</strong></h3>
+
+            <table border: 1px solid black;>
+                <tr>
+                  <th>Company</th>
+                  <th>Contact</th>
+                  <th>Country</th>
+                </tr>
+                <tr>
+                  <td>Alfreds Futterkiste</td>
+                  <td>Maria Anders</td>
+                  <td>Germany</td>
+                </tr>
+                <tr>
+                  <td>Centro comercial Moctezuma</td>
+                  <td>Francisco Chang</td>
+                  <td>Mexico</td>
+                </tr>
+              </table>
 
             <section id="section1">
                 <h3>Wochenrückblick</h3>
@@ -76,7 +92,6 @@
 
             <section id="section2">
             <h3>Lupe der Woche-IPERKA-Methode</h3>
-                <table><tr><td>
                     <p>
                     Die IPERKA-Methode, eine Methodik zur systematischen Bearbeitung
                     von Aufträgen. Die IPERKA-Methode umfasst sechs Arbeitsschritte,
@@ -86,14 +101,10 @@
                     <p>
                     Im folgenden Text wird die IPERKA-Methodik näher&nbsperläutert&nbspund es wird&nbspauf&nbspjeden&nbspder&nbspsechs&nbspSchritte näher eingegangen.
                     </p>
-                </td>
-
-                <td>
                     <img src="Picture1.jpg">
                     <br>
                     <a href="https://www.konstrukteur-in.ch/wp-content/uploads/iperka-600x400.jpg">https://www.konstrukteur-in.ch/wp-content/uploads/iperka-600x400.jpg</a>
-                </td>
-            </tr></table>
+            
 
             <ol>
                 <li><strong>Informieren</strong>
