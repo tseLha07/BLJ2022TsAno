@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63f51ce7-85b2-4cfd-a167-47dcdfd46052" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C/KW40/SlidingGame/.idea/SlidingGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wordle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW36/AverageMark/build/Debug/MinGW-Windows/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW36/AverageMark/build/Debug/MinGW-Windows/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW36/AverageMark/dist/Debug/MinGW-Windows/averagemark.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW36/AverageMark/dist/Debug/MinGW-Windows/averagemark.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW36/AverageMark/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW36/AverageMark/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW36/AverageMark/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW36/AverageMark/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/build/Debug/MinGW-Windows/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/build/Debug/MinGW-Windows/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/dist/Debug/MinGW-Windows/cppapplication_1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/dist/Debug/MinGW-Windows/cppapplication_1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/.dep.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/build/Debug/MinGW-Windows/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/build/Debug/MinGW-Windows/main.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/dist/Debug/MinGW-Windows/pointer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Pointer/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/nbproject/private/configurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Pointer/nbproject/private/configurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Pointer/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Struct/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Struct/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Struct/nbproject/private/configurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Struct/nbproject/private/configurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Struct/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Struct/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/ingredients.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/ingredients.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/preparation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/preparation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/01 enifühhrung in programmierung/weihnachtsbaum/src/Diagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/01 enifühhrung in programmierung/weihnachtsbaum/src/Diagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/AquariumSimulatorChallenge/src/ch/noseryoung/blj/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/AquariumSimulatorChallenge/src/ch/noseryoung/blj/Aquarium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/AquariumSimulatorChallenge/src/ch/noseryoung/blj/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/AquariumSimulatorChallenge/src/ch/noseryoung/blj/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/AquariumSimulatorChallenge/src/ch/noseryoung/blj/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/AquariumSimulatorChallenge/src/ch/noseryoung/blj/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/ConstructorExcercise/src/ch/noseryooung/blj/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/ConstructorExcercise/src/ch/noseryooung/blj/person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/FridayChallenge/out/production/FridayChallenge/ch/noseryoung/blj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/FridayChallenge/out/production/FridayChallenge/ch/noseryoung/blj/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/FridayChallenge/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/FridayChallenge/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/FridayChallenge/src/ch/noseryoung/blj/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/FridayChallenge/src/ch/noseryoung/blj/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/FridayChallengeAlternativeCode/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/FridayChallengeAlternativeCode/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/FridayChallengeAlternativeCode/src/ch/noseryoung/blj/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/FridayChallengeAlternativeCode/src/ch/noseryoung/blj/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/MorseCode/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/MorseCode/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/MorseCode/src/methoden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/MorseCode/src/methoden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/RucksackPacken/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/RucksackPacken/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/RucksackPacken/src/methoden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/RucksackPacken/src/methoden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/SnackAutomat/src/ch/noseryoung/blj/Automat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/SnackAutomat/src/ch/noseryoung/blj/Automat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/SnackAutomat/src/ch/noseryoung/blj/Snacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/SnackAutomat/src/ch/noseryoung/blj/Snacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/SnackAutomat/src/ch/noseryoung/blj/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KW45/SnackAutomat/src/ch/noseryoung/blj/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/out/production/untitled/ch/noseryoung/blj/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/out/production/untitled/ch/noseryoung/blj/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/src/ch/noseryoung/blj/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/src/ch/noseryoung/blj/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KW45/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Personen_Aufgabe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Personen_Aufgabe.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JDNuJOvqZQZN4kNakWCyCqKKtM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/GitHub Repositories/Snack-Automat/SnackAutomat_CLI"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f51ce7-85b2-4cfd-a167-47dcdfd46052" name="Changes" comment="" />
+      <created>1671608917923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671608917923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

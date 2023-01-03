@@ -13,13 +13,13 @@ public class Diagrams {
         String star = "*";
         int  count = 1;
 
-        System.out.println("      "+ star.repeat(count));
-        System.out.println("     "+ star.repeat(count+ 2));
-        System.out.println("    "+ star.repeat(count+ 4));
-        System.out.println("   "+ star.repeat(count+ 6));
-        System.out.println("  "+ star.repeat(count+ 8));
-        System.out.println(" "+ star.repeat(count+ 10));
-        System.out.println("     "+ star.repeat(count+ 2));
+        System.out.println("      "+ star.repeat(1));
+        System.out.println("     "+ star.repeat(3));
+        System.out.println("    "+ star.repeat(5));
+        System.out.println("   "+ star.repeat(7));
+        System.out.println("  "+ star.repeat(9));
+        System.out.println(" "+ star.repeat(11));
+        System.out.println("     "+ star.repeat(3));
     }
     static void GlassHour(){
         String star = "*";

@@ -1,2 +1,4 @@
-package ch.noseryoung.blj;public class main {
+package ch.noseryoung.blj;
+
+public class main {
 }

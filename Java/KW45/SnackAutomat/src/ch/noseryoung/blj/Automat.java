@@ -1,2 +1,4 @@
-package ch.noseryoung.blj;public class Automat {
+package ch.noseryoung.blj;
+
+public class Automat {
 }
