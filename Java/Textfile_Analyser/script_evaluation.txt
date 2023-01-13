@@ -1,0 +1,6 @@
+[13-01-2023 08:14:23] [script.txt]
+--------------------------------------------
+Number of unique words:                     
+Total number of words:                  9159
+Most common word:                           
+--------------------------------------------
