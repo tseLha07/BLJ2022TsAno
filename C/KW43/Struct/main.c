@@ -1,24 +1,27 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
- * File:   main.c
- * Author: karma
- *
- * Created on 27 October 2022, 2:41 pm
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * 
- */
-int main(int argc, char** argv) {
+typedef struct Book {
+    char title[20];
+    char author[20];
+    int published;
+} TBook;
 
-    return (EXIT_SUCCESS);
+void printBook(TBook book){
+    printf("*******************\n");
+    printf("Title: %s \n", book.title);
+    printf("Author: %s \n", book.author);
+    printf("Published: %d \n", book.published);
 }
 
+int main() {
+    
+    char title[20] = "Die Elfen";
+    char author[20] = "Bernard Hennen";
+    int published = 2004;
+    
+    TBook book = {0};
+    printBook(book); 
+    
+    return 0;
+}

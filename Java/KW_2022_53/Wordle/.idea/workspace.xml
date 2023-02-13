@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63f51ce7-85b2-4cfd-a167-47dcdfd46052" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/Textfile_Analyser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/out/production/Textfile_Analyser/ch/noseryoung/blj/Starter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/out/production/Textfile_Analyser/ch/noseryoung/blj/TextFileAnalyzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/script.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/script_evaluation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/src/ch/noseryoung/blj/FileIOHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/src/ch/noseryoung/blj/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Textfile_Analyser/src/ch/noseryoung/blj/TextFileAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TriangleExceptions/src/TriangleExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TriangleExceptions/src/out/production/TriangleExceptions/TriangleExceptions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW36/AverageMark/build/Debug/MinGW-Windows/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW36/AverageMark/build/Debug/MinGW-Windows/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW36/AverageMark/dist/Debug/MinGW-Windows/averagemark.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW36/AverageMark/dist/Debug/MinGW-Windows/averagemark.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW36/AverageMark/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW36/AverageMark/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW36/AverageMark/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW36/AverageMark/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/build/Debug/MinGW-Windows/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/build/Debug/MinGW-Windows/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/dist/Debug/MinGW-Windows/cppapplication_1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/dist/Debug/MinGW-Windows/cppapplication_1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/CppApplication_1/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/.dep.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/build/Debug/MinGW-Windows/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/build/Debug/MinGW-Windows/main.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/dist/Debug/MinGW-Windows/pointer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Pointer/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/nbproject/private/configurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Pointer/nbproject/private/configurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Pointer/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Pointer/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Struct/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Struct/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Struct/nbproject/private/configurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Struct/nbproject/private/configurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/KW43/Struct/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/KW43/Struct/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/ingredients.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/ingredients.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/preparation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../HTML/KW49/BackWebsite/preparation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummeBerechnen/src/ch/noseryoung/blj/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SummeBerechnen/src/ch/noseryoung/blj/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummeBerechnen/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SummeBerechnen/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriangleExceptions/src/ch/noseryoung/app/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TriangleExceptions/src/ch/noseryoung/app/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriangleExceptions/src/ch/noseryoung/app/TriangleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TriangleExceptions/src/ch/noseryoung/app/TriangleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JDNuJOvqZQZN4kNakWCyCqKKtM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub Repositories/BLJ2022TsAno/Java/Wordle&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f51ce7-85b2-4cfd-a167-47dcdfd46052" name="Changes" comment="" />
+      <created>1671608917923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671608917923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
