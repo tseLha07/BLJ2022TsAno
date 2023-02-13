@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85cfe916-1c39-4d82-941b-36f0ea08832d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../KW_2022_50/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2022_50/.idea/KW_2022_50.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2022_50/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2022_50/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/out/production/Stoffwechselrate/ch/noseryoung/blj/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/out/production/Stoffwechselrate/ch/noseryoung/blj/calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/SnackAutomat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/src/ch/noseryoung/blj/Automat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/src/ch/noseryoung/blj/Snacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/src/ch/noseryoung/blj/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2023_02/Textfile_Analyser/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KW_2023_02/Textfile_Analyser/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/Donnerstag.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2Lghs0gkq1GpYZhNRrCql6fzBHH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85cfe916-1c39-4d82-941b-36f0ea08832d" name="Changes" comment="" />
+      <created>1676298837781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676298837781</updated>
+    </task>
+    <servers />
+  </component>
+</project>
