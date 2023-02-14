@@ -5,8 +5,8 @@ public class calculator {
 
     static Scanner scanner = new Scanner(System.in);
 
-    public static void getUserInput(){
-        System.out.println("Enter your biological sex:");
+    public static void getUserInput() {
+        System.out.println("Enter your biological sex (m/f):");
         String sex = scanner.nextLine();
         System.out.println("Enter your age: ");
         int age = Integer.parseInt(scanner.nextLine());

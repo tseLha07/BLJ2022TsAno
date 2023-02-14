@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="85cfe916-1c39-4d82-941b-36f0ea08832d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../KW_2022_50/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../KW_2022_50/.idea/KW_2022_50.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../KW_2022_50/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../KW_2022_50/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/out/production/Stoffwechselrate/ch/noseryoung/blj/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/out/production/Stoffwechselrate/ch/noseryoung/blj/calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/src/ch/noseryoung/blj/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stoffwechselrate/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaumstammVolumen/ch/noseryoung/blj/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaumstammVolumen/ch/noseryoung/blj/calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/summeberechnen.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/modules.xml" beforeDir="false" />
@@ -26,8 +30,14 @@
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/Donnerstag.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stoffwechselrate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/out/production/Stoffwechselrate/ch/noseryoung/blj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Stoffwechselrate/out/production/Stoffwechselrate/ch/noseryoung/blj/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/out/production/Stoffwechselrate/ch/noseryoung/blj/calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Stoffwechselrate/out/production/Stoffwechselrate/ch/noseryoung/blj/calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stoffwechselrate/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stoffwechselrate/src/ch/noseryoung/blj/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stoffwechselrate/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03 variablen-datentypen-operatoren/Stoffwechselrate/main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +45,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Lghs0gkq1GpYZhNRrCql6fzBHH" />
   <component name="ProjectViewState">
@@ -46,7 +66,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/GitHub Repositories/BLJ2022TsAno/Java/KW_2023_07/02_variablen-datentypen-operatoren/Stoffwechselrate"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
