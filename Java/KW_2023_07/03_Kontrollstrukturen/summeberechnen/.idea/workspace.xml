@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29d33004-b7e0-4494-b6a6-45df21769197" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/summeberechnen/ch/noseryoung/blj/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/summeberechnen/ch/noseryoung/blj/calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/src/main/java/com/example/hellofx/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/src/main/java/com/example/hellofx/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloFX/src/main/resources/com/example/hellofx/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/OCA-Probeaufgaben.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/src/ch/noseryoung/blj/Swan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/src/ch/noseryoung/blj/methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/modules.xml" beforeDir="false" />
@@ -24,9 +43,14 @@
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/Donnerstag.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02_variablen-datentypen-operatoren/Stoffwechselrate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_variablen-datentypen-operatoren/Stoffwechselrate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_variablen-datentypen-operatoren/Stoffwechselrate/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_variablen-datentypen-operatoren/Stoffwechselrate/src/ch/noseryoung/blj/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../03 variablen-datentypen-operatoren/Stoffwechselrate/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlen-Palindrom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zahlen-Palindrom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlen-Palindrom/out/production/Zahlen-Palindrom/ch/noseryoung/blj/method.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zahlen-Palindrom/out/production/Zahlen-Palindrom/ch/noseryoung/blj/method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlen-Palindrom/src/ch/noseryoung/blj/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zahlen-Palindrom/src/ch/noseryoung/blj/method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/summeberechnen/ch/noseryoung/blj/calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/summeberechnen/ch/noseryoung/blj/calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/noseryoung/blj/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,15 +79,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub Repositories/BLJ2022TsAno/Java/KW_2023_07/03_Kontrollstrukturen/summeberechnen&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

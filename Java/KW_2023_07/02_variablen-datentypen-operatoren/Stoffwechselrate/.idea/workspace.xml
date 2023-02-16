@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0bde0fd-01a2-4967-b275-3c4d3e8a4b85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../BaumstammVolumen/out/production/BaumstammVolumen/ch/noseryoung/blj/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaumstammVolumen/out/production/BaumstammVolumen/ch/noseryoung/blj/calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaumstammVolumen/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/Zahlen-Palindrom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/out/production/Zahlen-Palindrom/ch/noseryoung/blj/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/out/production/Zahlen-Palindrom/ch/noseryoung/blj/method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/Zahlen-Palindrom/src/ch/noseryoung/blj/method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/modules.xml" beforeDir="false" />
@@ -28,14 +30,12 @@
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/Donnerstag.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaumstammVolumen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaumstammVolumen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaumstammVolumen/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaumstammVolumen/src/ch/noseryoung/blj/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Stoffwechselrate/ch/noseryoung/blj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stoffwechselrate/ch/noseryoung/blj/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Stoffwechselrate/ch/noseryoung/blj/calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stoffwechselrate/ch/noseryoung/blj/calculator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/noseryoung/blj/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../03 variablen-datentypen-operatoren/Stoffwechselrate/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/out/production/summeberechnen/ch/noseryoung/blj/calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/out/production/summeberechnen/ch/noseryoung/blj/calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/src/ch/noseryoung/blj/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_Kontrollstrukturen/summeberechnen/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/GitHub Repositories/BLJ2022TsAno/Java/KW_2023_07/02_variablen-datentypen-operatoren/Stoffwechselrate"
+    "last_opened_file_path": "C:/GitHub Repositories/BLJ2022TsAno/Java/KW_2023_07/03_Kontrollstrukturen/Zahlen-Palindrom"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

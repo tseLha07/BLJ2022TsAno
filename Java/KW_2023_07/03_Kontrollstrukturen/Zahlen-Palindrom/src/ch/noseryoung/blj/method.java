@@ -25,8 +25,8 @@ public class method {
                 System.out.println("----------------------------");
             }
 
-            System.out.println("continue (c)");
-            System.out.println("quit (q)");
+            System.out.println("(c) continue");
+            System.out.println("(q) quit");
             String o = scanner.nextLine();
 
             if(o.equals("q")){

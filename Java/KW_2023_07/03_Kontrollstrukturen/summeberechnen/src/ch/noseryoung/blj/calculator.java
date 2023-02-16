@@ -8,15 +8,14 @@ public class calculator {
     public static void incrementingAddition() {
 
         int result = 0;
-        int temp;
 
         System.out.println("Increment number from: ");
         int num = Integer.parseInt(scanner.nextLine());
         System.out.println("to: ");
         int num2 = Integer.parseInt(scanner.nextLine());
 
-        for (temp = num; temp <= num2; temp++){
-            result = temp + result;
+        for (int i = num; i <= num2; i++){
+            result = i + result;
         }
         System.out.println("The sum of incremented number from " + num + " till " + num2 + " is " + result + ".");
     }
