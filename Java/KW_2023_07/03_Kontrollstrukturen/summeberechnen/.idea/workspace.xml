@@ -5,28 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29d33004-b7e0-4494-b6a6-45df21769197" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/src/main/java/com/example/hellofx/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/src/main/java/com/example/hellofx/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HelloFX/src/main/resources/com/example/hellofx/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/OCA-Probeaufgaben.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/src/ch/noseryoung/blj/Swan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OCA-Probeaufgaben/src/ch/noseryoung/blj/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/Media.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/src/bblj/noseryoung/ch/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/src/bblj/noseryoung/ch/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/src/bblj/noseryoung/ch/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/src/bblj/noseryoung/ch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/src/bblj/noseryoung/ch/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/Media/src/bblj/noseryoung/ch/VideoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/out/production/inheritance/blj/noseryoung/ch/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/out/production/inheritance/blj/noseryoung/ch/Lion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/out/production/inheritance/blj/noseryoung/ch/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/src/blj/noseryoung/ch/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/src/blj/noseryoung/ch/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/inheritance/src/blj/noseryoung/ch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/src/blj/noseryoung/ch/Apprentice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/src/blj/noseryoung/ch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/src/blj/noseryoung/ch/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../KW_2023_08/vererbung01/vererbung01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KW_2022_45/FridayChallenge/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KW_2022_45/FridayChallenge/src/ch/noseryoung/blj/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2022_50/SnackAutomat/.idea/modules.xml" beforeDir="false" />
@@ -42,15 +55,47 @@
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/Donnerstag.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../KW_2023_06/Donnerstag/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_variablen-datentypen-operatoren/Stoffwechselrate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_variablen-datentypen-operatoren/Stoffwechselrate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_variablen-datentypen-operatoren/Stoffwechselrate/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_variablen-datentypen-operatoren/Stoffwechselrate/src/ch/noseryoung/blj/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../03 variablen-datentypen-operatoren/Stoffwechselrate/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zahlen-Palindrom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zahlen-Palindrom/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zahlen-Palindrom/out/production/Zahlen-Palindrom/ch/noseryoung/blj/method.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zahlen-Palindrom/out/production/Zahlen-Palindrom/ch/noseryoung/blj/method.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zahlen-Palindrom/src/ch/noseryoung/blj/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zahlen-Palindrom/src/ch/noseryoung/blj/method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/summeberechnen/ch/noseryoung/blj/calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/summeberechnen/ch/noseryoung/blj/calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/noseryoung/blj/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/noseryoung/blj/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmailFX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailFX/src/main/resources/com/example/hellofx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmailFX/src/main/resources/com/example/hellofx/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/src/main/java/com/example/hellofx/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/src/main/java/com/example/hellofx/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/src/main/java/com/example/hellofx/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloFX/src/main/resources/com/example/hellofx/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OCA-Probeaufgaben/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OCA-Probeaufgaben/OCA-Probeaufgaben.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OCA-Probeaufgaben/src/ch/noseryoung/blj/Swan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OCA-Probeaufgaben/src/ch/noseryoung/blj/methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/src/main/java/com/example/probeprojekt/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/src/main/java/com/example/probeprojekt/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProbeProjekt/src/main/resources/com/example/probeprojekt/hello-view.fxml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

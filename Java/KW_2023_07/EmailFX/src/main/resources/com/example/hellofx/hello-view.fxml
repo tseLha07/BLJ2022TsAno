@@ -11,7 +11,7 @@
    <children>
       <Text layoutX="25.0" layoutY="31.0" strokeType="OUTSIDE" strokeWidth="0.0" text="To:" />
       <Text layoutX="20.0" layoutY="166.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Subject:" />
-      <TextField fx:id="To" layoutX="87.0" layoutY="22.0" prefHeight="26.0" prefWidth="662.0" />
+      <TextField fx:id="To" layoutX="87.0" layoutY="13.0" prefHeight="26.0" prefWidth="662.0" />
       <TextArea fx:id="Subject" layoutX="87.0" layoutY="143.0" prefHeight="17.0" prefWidth="662.0" />
       <TextArea fx:id="Content" layoutX="14.0" layoutY="207.0" prefHeight="334.0" prefWidth="730.0" />
       <Text layoutX="23.0" layoutY="74.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Cc :" />
