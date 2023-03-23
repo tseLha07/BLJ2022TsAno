@@ -1,6 +1,5 @@
 package blj.noseryoung.ch;
 import java.util.ArrayList;
-import java.awt.*;
 
 public class Starter {
     public static void main(String[] args) {
@@ -16,7 +15,12 @@ public class Starter {
         ArrayList<CSLineSegment> lineSegment = new ArrayList<CSLineSegment>();
         lineSegment.add(l1);
 
-        CoordinateSystem cs = new CoordinateSystem(point, 500, lineSegment);
+        ArrayList<CSCircle> circle = new ArrayList<CSCircle>();
+
+        ArrayList<CSRectangle> rectangle = new ArrayList<CSRectangle>();
+
+        CoordinateSystem cs = new CoordinateSystem(point, 500, lineSegment, circle, rectangle);
+
         new CSRenderer(cs);
     }
 }

@@ -11,7 +11,7 @@ import java.awt.event.MouseEvent;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import static java.awt.Color.PINK;
+
 
 /**
  * This class is responsible for visualising a given coordinate system in a
@@ -119,6 +119,12 @@ public class CSRenderer extends JPanel {
       CSPoint translatedPoint1 = translatePoint(line.getLineEnd());
       g2d.setColor(Color.MAGENTA);
       g2d.drawLine(translatedPoint.x, translatedPoint.y, translatedPoint1.x, translatedPoint1.y);
+    }
+    for(CSCircle circle : cs.getAllCircles()){
+
+    }
+    for(CSRectangle rectangle : cs.getAllRectangles()){
+
     }
   }
 
