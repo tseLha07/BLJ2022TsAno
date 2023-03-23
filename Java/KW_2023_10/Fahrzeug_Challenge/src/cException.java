@@ -1,5 +1,5 @@
-public class Exception extends java.lang.Exception {
-    public Exception(String errorCode){
+public class cException extends Exception {
+    public cException(String errorCode){
         super(errorCode);
     }
 }

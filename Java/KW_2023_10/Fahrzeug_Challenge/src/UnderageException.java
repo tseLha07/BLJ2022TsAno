@@ -1,4 +1,6 @@
-package blj.noseryoung.ch;
+public class UnderageException extends cException {
 
-public class UnderageException {
+    public UnderageException() {
+        super("This Person is an Underage. The person has to be 18+");
+    }
 }

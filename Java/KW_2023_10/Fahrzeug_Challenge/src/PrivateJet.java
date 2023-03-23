@@ -1,10 +1,11 @@
-package blj.noseryoung.ch;
+import java.time.Year;
 
-import java.time.LocalDate;
+public class PrivateJet extends Vehicles {
 
-public class PrivateJet extends Vehicles{
+    String speed;
 
-    public PrivateJet(String brand, String speed, float price, LocalDate ageRestriction, String color) {
-        super(brand, speed, price, ageRestriction, color);
+    public PrivateJet(String index,String type, String brand, String speed, float price, Year ageRestriction, String color) {
+        super(index, type, brand, price, ageRestriction, color);
+        this.speed = speed;
     }
 }

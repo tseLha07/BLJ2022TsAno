@@ -8,20 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../../KW_2023_08/Koordinatensystem/src/blj/noseryoung/ch/CSCircle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../KW_2023_08/Koordinatensystem/src/blj/noseryoung/ch/CSRectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../KW_2023_08/Koordinatensystem/src/blj/noseryoung/ch/drawsShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/CatQuoteGenerator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/JavaCodeKata.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/src/blj/noseryoung/ch/BaseCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/src/blj/noseryoung/ch/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/src/blj/noseryoung/ch/Starter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/.idea/modules.xml" afterDir="false" />
@@ -43,24 +29,76 @@
       <change afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/VehicleRentalManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Vehicles.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/cException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MemoryMitMehrsprachigkeit/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MemoryMitMehrsprachigkeit/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MemoryMitMehrsprachigkeit/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MemoryMitMehrsprachigkeit/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MemoryMitMehrsprachigkeit/MemoryMitMehrsprachigkeit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_C/src/main/java/org/example/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwodArrayGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MemoryGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TwodArrayGame/cardGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/english.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/german.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/japanese.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GermanGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/build/classes/java/main/org/example/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/build/classes/java/main/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/src/main/java/org/example/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/src/main/java/org/example/IDComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/src/main/java/org/example/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable_Comparator/src/main/java/org/example/PublishedComparator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../matching/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../matching/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../matching/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../matching/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../matching/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../matching/matching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matching/resources/english.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matching/resources/german.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matching/resources/hindi.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../matching/src/cardGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../KW_2022_45/FridayChallenge/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2022_45/FridayChallenge/src/ch/noseryoung/blj/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/.idea/.gitignore" beforeDir="false" />
@@ -203,31 +241,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/GitHub Repositories/BLJ2022TsAno/Java/KW_2023_11/TwodArrayGame"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub Repositories/BLJ2022TsAno/Java/KW_2023_11/MemoryGame&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="MemoryGame" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="MemoryGame" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

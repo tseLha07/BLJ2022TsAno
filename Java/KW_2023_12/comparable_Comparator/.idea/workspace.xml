@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4acbd33-22b0-4d50-804d-3fd94e78054e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_C/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/JavaCodeKata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/src/blj/noseryoung/ch/BaseCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/src/blj/noseryoung/ch/Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaCodeKata/src/blj/noseryoung/ch/Starter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_45/FridayChallenge/src/ch/noseryoung/blj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2022_45/FridayChallenge/src/ch/noseryoung/blj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/SnackAutomat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/src/ch/noseryoung/blj/Automat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/src/ch/noseryoung/blj/Snacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2022_50/SnackAutomat/src/ch/noseryoung/blj/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_02/Textfile_Analyser/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_02/Textfile_Analyser/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_06/Donnerstag/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_06/Donnerstag/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_06/Donnerstag/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_06/Donnerstag/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_06/Donnerstag/Donnerstag.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_06/Donnerstag/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/03 variablen-datentypen-operatoren/Stoffwechselrate/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/src/main/java/com/example/hellofx/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/src/main/java/com/example/hellofx/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/src/main/java/com/example/hellofx/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/HelloFX/src/main/resources/com/example/hellofx/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/MorseCodeTranslator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/OCA-Probeaufgaben/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/OCA-Probeaufgaben/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/OCA-Probeaufgaben/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/OCA-Probeaufgaben/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/OCA-Probeaufgaben/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/OCA-Probeaufgaben/OCA-Probeaufgaben.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/OCA-Probeaufgaben/src/ch/noseryoung/blj/Swan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/OCA-Probeaufgaben/src/ch/noseryoung/blj/methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/src/main/java/com/example/probeprojekt/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/src/main/java/com/example/probeprojekt/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/ProbeProjekt/src/main/resources/com/example/probeprojekt/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_07/demo/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/CatQuoteGenerator/CatQuoteGenerator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/JavaCodeKata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/src/blj/noseryoung/ch/BaseCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/src/blj/noseryoung/ch/Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_09/JavaCodeKata/src/blj/noseryoung/ch/Starter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Contract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Contract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/DenyListException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/DenyListException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/LeaseLengthCollisionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/LeaseLengthCollisionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/OrganizationalFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/OrganizationalFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/PrivateJet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/PrivateJet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Salesman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Salesman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/UnderageException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/UnderageException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/VehicleRentalManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/VehicleRentalManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Vehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/Vehicles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/cException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_10/Fahrzeug_Challenge/src/cException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/C_C/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/resources/english.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/resources/english.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/resources/german.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/resources/german.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/resources/japanese.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/resources/japanese.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/src/GermanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/src/GermanGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/src/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../KW_2023_11/MemoryGame/src/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryMitMehrsprachigkeit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryMitMehrsprachigkeit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryMitMehrsprachigkeit/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryMitMehrsprachigkeit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/MemoryMitMehrsprachigkeit/MemoryMitMehrsprachigkeit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/TwodArrayGame/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/TwodArrayGame/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/TwodArrayGame/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/TwodArrayGame/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/TwodArrayGame/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/TwodArrayGame/src/cardGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/build/classes/java/main/org/example/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/build/classes/java/main/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/src/main/java/org/example/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/src/main/java/org/example/IDComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/src/main/java/org/example/NameComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/comparable_Comparator/src/main/java/org/example/PublishedComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/matching.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/out/production/matching/cardg2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/resources/english.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/resources/german.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/resources/hindi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KW_2023_11/matching/src/cardGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/build/classes/java/main/org/example/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/build/classes/java/main/org/example/IDComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/build/classes/java/main/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/build/classes/java/main/org/example/NameComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/build/classes/java/main/org/example/PublishedComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/src/main/java/org/example/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/src/main/java/org/example/IDComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/src/main/java/org/example/NameComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comparable_Comparator/src/main/java/org/example/PublishedComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NN3v0HW8TKxsjlDVA1j4CV4xeV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/GitHub Repositories/BLJ2022TsAno/Java/KW_2023_12/comparable_Comparator"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="comparable_Comparator.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4acbd33-22b0-4d50-804d-3fd94e78054e" name="Changes" comment="" />
+      <created>1679490940657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679490940657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

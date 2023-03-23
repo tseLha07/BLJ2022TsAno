@@ -1,9 +1,13 @@
-package Vehicles;
-
-import java.time.LocalDate;
+import java.time.Year;
 
 public class Car extends Vehicles {
-    public Car(String brand, String speed, float price, LocalDate ageRestriction, String color) {
-        super(brand, speed, price, ageRestriction, color);
+    String speed;
+    public Car(String index,String type, String brand, String speed, float price, Year ageRestriction, String color) {
+        super(index, type, brand, price, ageRestriction, color);
+        this.speed = speed;
+    }
+
+    public void setSpeed(String speed) {
+        this.speed = speed;
     }
 }

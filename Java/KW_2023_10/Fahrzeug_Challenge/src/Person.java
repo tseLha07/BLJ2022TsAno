@@ -1,27 +1,35 @@
-package blj.noseryoung.ch;
-
-import java.time.LocalDate;
+import java.time.Year;
 
 public class Person {
     private String name;
     private String firstName;
-    private LocalDate birthDate;
+    private Year birthYear;
     private String street;
     private String streetNo;
     private String plz;
     private String city;
 
-    public Person(String name, String firstName, String street, String streetNo, String plz, String city){
+    public Person(String name, String firstName, Year birthYear, String street, String streetNo, String plz, String city){
         this.name = name;
         this.firstName = firstName;
+        this.birthYear = birthYear;
         this.street = street;
         this.streetNo = streetNo;
         this.plz = plz;
         this.city = city;
     }
 
-    public Person() {
+    public Person(){
 
+    }
+
+    public void printDetail(){
+        String detail = "---------------------------" + "\nName: " + name + "\nFirst name: " + firstName + "\nBirth year: " + birthYear + "\nStreet: " + street + "\nStreet no: " + streetNo + "\nPLZ: " + plz + "\nCity: " + city;
+        System.out.println(detail);
+    }
+
+    public Year getBirthYear() {
+        return birthYear;
     }
 
     public String getName() {
@@ -30,10 +38,6 @@ public class Person {
 
     public String getFirstName() {
         return firstName;
-    }
-
-    public LocalDate getBirthDate() {
-        return birthDate;
     }
 
     public String getStreet() {
@@ -60,8 +64,8 @@ public class Person {
         this.firstName = firstName;
     }
 
-    public void setBirthDate(LocalDate birthDate) {
-        this.birthDate = birthDate;
+    public void setBirthYear(Year birthYear) {
+        this.birthYear = birthYear;
     }
 
     public void setStreet(String street) {

@@ -119,6 +119,7 @@ public class Main {
     public static Person[] initPersonArray(Person[] persArr){
         int i = 0;
 
+
         persArr[i++] = new Person( 2007, 5, 1, "Marko");
         persArr[i++] = new Person( 2006, 11, 23, "Dylan");
         persArr[i++] = new Person( 2006, 7, 23, "Samuel");
