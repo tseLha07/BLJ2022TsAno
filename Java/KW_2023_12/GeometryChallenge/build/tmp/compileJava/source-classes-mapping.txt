@@ -1,0 +1,20 @@
+ch/noseryoung/main/TriangleValidator.java
+ ch.noseryoung.main.TriangleValidator
+ch/noseryoung/main/Triangle.java
+ ch.noseryoung.main.Triangle
+ch/noseryoung/main/ShapeSideCreator.java
+ ch.noseryoung.main.ShapeSideCreator
+ch/noseryoung/main/ShortestSide.java
+ ch.noseryoung.main.ShortestSide
+ch/noseryoung/main/LongestSide.java
+ ch.noseryoung.main.LongestSide
+ch/noseryoung/main/SideCreatorService.java
+ ch.noseryoung.main.SideCreatorService
+org/example/Main.java
+ org.example.Main
+ch/noseryoung/main/SideCreatorUserInput.java
+ ch.noseryoung.main.SideCreatorUserInput
+ch/noseryoung/main/TriangleManager.java
+ ch.noseryoung.main.TriangleManager
+ch/noseryoung/main/Starter.java
+ ch.noseryoung.main.Starter

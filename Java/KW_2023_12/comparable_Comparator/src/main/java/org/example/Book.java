@@ -3,6 +3,7 @@ package org.example;
 import java.time.LocalDate;
 
 public class Book implements Comparable<Book>{
+
     private String title;
     private String author;
     private LocalDate published;

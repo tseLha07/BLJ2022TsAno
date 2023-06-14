@@ -52,7 +52,6 @@ public class Aquarium {
             System.out.println();
         }
     }
-
     public boolean isSweet() {
         return isSweet;
     }
