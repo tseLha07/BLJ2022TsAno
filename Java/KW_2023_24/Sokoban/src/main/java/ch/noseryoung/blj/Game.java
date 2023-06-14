@@ -12,7 +12,7 @@ public class Game {
     private List<Point> goalPos;
 
     public Game() {
-        gameField = new int[][] {
+        this(new int[][] {
                 { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0 },
                 { 1, 4, 4, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1 },
                 { 1, 4, 4, 0, 0, 1, 0, 3, 0, 0, 3, 0, 0, 1 },
@@ -23,7 +23,11 @@ public class Game {
                 { 0, 0, 1, 0, 3, 0, 0, 3, 0, 3, 0, 3, 0, 1 },
                 { 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1 },
                 { 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
-        };
+        });
+    }
+
+    public Game(int[][] board){
+        gameField = board;
         elementsPos();
     }
 
@@ -56,7 +60,7 @@ public class Game {
                 counter++;
                 if(counter == goalPos.size()){
                     System.out.println("Yay! You Won!");
-                    System.exit(0);
+                    //System.exit(0);
                 }
             }
         }return true;
