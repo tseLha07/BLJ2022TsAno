@@ -67,110 +67,122 @@ public class Game {
     }
 
     public void moveUp() {
-        if(gameField[personPosition.x - 1][personPosition.y] == 3 && gameField[personPosition.x - 2][personPosition.y] == 1){
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("Cannot go UP anymore");
-        }else if(gameField[personPosition.x - 1][personPosition.y] == 3 && gameField[personPosition.x - 2][personPosition.y] == 3){
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("Cannot go UP anymore");
-        }else if(gameField[personPosition.x - 1][personPosition.y] != 1 && gameField[personPosition.x - 1][personPosition.y] != 3){
-            gameField[personPosition.x][personPosition.y] = 0;
-            personPosition.x--;
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("UP");
-        }else if(gameField[personPosition.x - 1][personPosition.y] != 1 && gameField[personPosition.x - 1][personPosition.y] == 3){
-            gameField[personPosition.x][personPosition.y] = 0;
-            personPosition.x--;
-            gameField[personPosition.x][personPosition.y] = 2;
-            gameField[personPosition.x - 1][personPosition.y] = 3;
-            System.out.println("UP");
-        }else{
-            System.out.println("Cannot go UP anymore");
+        try {
+            if (gameField[personPosition.x - 1][personPosition.y] == 3 && gameField[personPosition.x - 2][personPosition.y] == 1) {
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("Cannot go UP anymore");
+            } else if (gameField[personPosition.x - 1][personPosition.y] == 3 && gameField[personPosition.x - 2][personPosition.y] == 3) {
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("Cannot go UP anymore");
+            } else if (gameField[personPosition.x - 1][personPosition.y] != 1 && gameField[personPosition.x - 1][personPosition.y] != 3) {
+                gameField[personPosition.x][personPosition.y] = 0;
+                personPosition.x--;
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("UP");
+            } else if (gameField[personPosition.x - 1][personPosition.y] != 1 && gameField[personPosition.x - 1][personPosition.y] == 3) {
+                gameField[personPosition.x][personPosition.y] = 0;
+                personPosition.x--;
+                gameField[personPosition.x][personPosition.y] = 2;
+                gameField[personPosition.x - 1][personPosition.y] = 3;
+                System.out.println("UP");
+            } else {
+                System.out.println("Cannot go UP anymore");
+            }
+            checkGoalPos();
+            winState();
+        }catch(ArrayIndexOutOfBoundsException e){
+            System.out.println(e + ", There is no way else to go!");
         }
-        checkGoalPos();
-        winState();
     }
 
     public void moveDown() {
-        if (gameField[personPosition.x + 1][personPosition.y] == 3 && gameField[personPosition.x + 2][personPosition.y] == 1) {
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("Cannot go DOWN anymore");
-        } else if (gameField[personPosition.x + 1][personPosition.y] == 3 && gameField[personPosition.x + 2][personPosition.y] == 3) {
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("Cannot go DOWN anymore");
-        } else if (gameField[personPosition.x + 1][personPosition.y] != 1 && gameField[personPosition.x + 1][personPosition.y] != 3) {
-            gameField[personPosition.x][personPosition.y] = 0;
-            personPosition.x++;
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("DOWN");
-        } else if (gameField[personPosition.x + 1][personPosition.y] != 1 && gameField[personPosition.x + 1][personPosition.y] == 3) {
-            gameField[personPosition.x][personPosition.y] = 0;
-            personPosition.x++;
-            gameField[personPosition.x][personPosition.y] = 2;
-            gameField[personPosition.x + 1][personPosition.y] = 3;
-            System.out.println("DOWN");
-        } else {
-            System.out.println("Cannot go DOWN anymore");
+        try {
+            if (gameField[personPosition.x + 1][personPosition.y] == 3 && gameField[personPosition.x + 2][personPosition.y] == 1) {
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("Cannot go DOWN anymore");
+            } else if (gameField[personPosition.x + 1][personPosition.y] == 3 && gameField[personPosition.x + 2][personPosition.y] == 3) {
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("Cannot go DOWN anymore");
+            } else if (gameField[personPosition.x + 1][personPosition.y] != 1 && gameField[personPosition.x + 1][personPosition.y] != 3) {
+                gameField[personPosition.x][personPosition.y] = 0;
+                personPosition.x++;
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("DOWN");
+            } else if (gameField[personPosition.x + 1][personPosition.y] != 1 && gameField[personPosition.x + 1][personPosition.y] == 3) {
+                gameField[personPosition.x][personPosition.y] = 0;
+                personPosition.x++;
+                gameField[personPosition.x][personPosition.y] = 2;
+                gameField[personPosition.x + 1][personPosition.y] = 3;
+                System.out.println("DOWN");
+            } else {
+                System.out.println("Cannot go DOWN anymore");
+            }
+            checkGoalPos();
+            winState();
+        }catch(ArrayIndexOutOfBoundsException e){
+            System.out.println(e + ", There is no way else to go!");
         }
-        checkGoalPos();
-        winState();
     }
 
     public void moveLeft() {
         boolean isGreen = true;
         int oldX = personPosition.x;
         int oldY = personPosition.y;
-
-        if(isGreen){
-
+        try {
+            if (gameField[personPosition.x][personPosition.y - 1] == 3 && gameField[personPosition.x][personPosition.y - 2] == 1) {
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("Cannot go LEFT anymore");
+            } else if (gameField[personPosition.x][personPosition.y - 1] == 3 && gameField[personPosition.x][personPosition.y - 2] == 3) {
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("Cannot go LEFT anymore");
+            } else if (gameField[personPosition.x][personPosition.y - 1] != 1 && gameField[personPosition.x][personPosition.y - 1] != 3) {
+                gameField[personPosition.x][personPosition.y] = 0;
+                personPosition.y--;
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("LEFT");
+            } else if (gameField[personPosition.x][personPosition.y - 1] != 1 && gameField[personPosition.x][personPosition.y - 1] == 3) {
+                gameField[personPosition.x][personPosition.y] = 0;
+                personPosition.y--;
+                gameField[personPosition.x][personPosition.y] = 2;
+                gameField[personPosition.x][personPosition.y - 1] = 3;
+                System.out.println("LEFT");
+            } else {
+                System.out.println("Cannot go LEFT anymore");
+            }
+            checkGoalPos();
+            winState();
+        }catch(ArrayIndexOutOfBoundsException e){
+            System.out.println(e + ", There is no way else to go!");
         }
-        if(gameField[personPosition.x][personPosition.y - 1 ] == 3 && gameField[personPosition.x][personPosition.y- 2] == 1){
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("Cannot go LEFT anymore");
-        }else if(gameField[personPosition.x][personPosition.y - 1] == 3 && gameField[personPosition.x][personPosition.y- 2] == 3){
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("Cannot go LEFT anymore");
-        }else if(gameField[personPosition.x][personPosition.y - 1] != 1 && gameField[personPosition.x][personPosition.y - 1] != 3){
-            gameField[personPosition.x][personPosition.y] = 0;
-            personPosition.y--;
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("LEFT");
-        }else if(gameField[personPosition.x][personPosition.y -1] != 1 && gameField[personPosition.x][personPosition.y-1] == 3){
-            gameField[personPosition.x][personPosition.y] = 0;
-            personPosition.y--;
-            gameField[personPosition.x][personPosition.y] = 2;
-            gameField[personPosition.x][personPosition.y - 1] = 3;
-            System.out.println("LEFT");
-        }else{
-            System.out.println("Cannot go LEFT anymore");
-        }
-        checkGoalPos();
-        winState();
     }
 
     public void moveRight() {
-        if(gameField[personPosition.x][personPosition.y + 1 ] == 3 && gameField[personPosition.x][personPosition.y + 2] == 1){
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("Cannot go RIGHT anymore");
-        }else if(gameField[personPosition.x][personPosition.y + 1] == 3 && gameField[personPosition.x][personPosition.y + 2] == 3){
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("Cannot go RIGHT anymore");
-        }else if(gameField[personPosition.x][personPosition.y + 1] != 1 && gameField[personPosition.x][personPosition.y + 1] != 3){
-            gameField[personPosition.x][personPosition.y] = 0;
-            personPosition.y++;
-            gameField[personPosition.x][personPosition.y] = 2;
-            System.out.println("RIGHT");
-        }else if(gameField[personPosition.x][personPosition.y + 1] != 1 && gameField[personPosition.x][personPosition.y + 1] == 3){
-            gameField[personPosition.x][personPosition.y] = 0;
-            personPosition.y++;
-            gameField[personPosition.x][personPosition.y] = 2;
-            gameField[personPosition.x][personPosition.y + 1] = 3;
-            System.out.println("RIGHT");
-        }else{
-            System.out.println("Cannot go RIGHT anymore");
+        try {
+            if (gameField[personPosition.x][personPosition.y + 1] == 3 && gameField[personPosition.x][personPosition.y + 2] == 1) {
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("Cannot go RIGHT anymore");
+            } else if (gameField[personPosition.x][personPosition.y + 1] == 3 && gameField[personPosition.x][personPosition.y + 2] == 3) {
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("Cannot go RIGHT anymore");
+            } else if (gameField[personPosition.x][personPosition.y + 1] != 1 && gameField[personPosition.x][personPosition.y + 1] != 3) {
+                gameField[personPosition.x][personPosition.y] = 0;
+                personPosition.y++;
+                gameField[personPosition.x][personPosition.y] = 2;
+                System.out.println("RIGHT");
+            } else if (gameField[personPosition.x][personPosition.y + 1] != 1 && gameField[personPosition.x][personPosition.y + 1] == 3) {
+                gameField[personPosition.x][personPosition.y] = 0;
+                personPosition.y++;
+                gameField[personPosition.x][personPosition.y] = 2;
+                gameField[personPosition.x][personPosition.y + 1] = 3;
+                System.out.println("RIGHT");
+            } else {
+                System.out.println("Cannot go RIGHT anymore");
+            }
+            checkGoalPos();
+            winState();
+        }catch(ArrayIndexOutOfBoundsException e){
+            System.out.println(e + ", There is no way else to go!");
         }
-        checkGoalPos();
-        winState();
     }
 
     public void escAction() {
